@@ -14,4 +14,4 @@
 
 ### Publications
 
-- [Publications](publications/Readme.md)
+- [Publications](Publications/Readme.md)
