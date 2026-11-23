@@ -12,3 +12,6 @@
 
 - [Training materials and practical exercises](https://github.com/BrunoChatras/Training)
 
+### Publications
+
+- [Publications](publications/Readme.md)
