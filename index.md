@@ -10,7 +10,7 @@
 ### Technical Resources
 
 - [Training materials and practical exercises](https://github.com/BrunoChatras/Training)
-- [List of acronyms](Courses/acronyms.pdf)
+- [List of acronyms](Courses/Acronyms.pdf)
 
 ### Publications
 
