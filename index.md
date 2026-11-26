@@ -15,4 +15,4 @@ Generic versions of the course materials are available here. University-specific
 
 ### Publications
 
-- [Publications](Publications/Readme.md)
+- [Publications](Publications/README.md)
