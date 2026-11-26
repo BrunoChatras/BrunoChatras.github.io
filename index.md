@@ -10,7 +10,7 @@ Generic versions of the course materials are available here. University-specific
 
 ### Technical Resources
 
-- [Training materials and practical exercises](https://github.com/BrunoChatras/Training)
+- [Training materials and practical exercises](https://github.com/BrunoChatras/Trainings)
 - [List of acronyms](Courses/Acronyms.pdf)
 
 ### Publications
